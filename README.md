@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Feng. You could discover several repositories in my personal homepage, which is set up for researches on deep learning. If you're as interested in deep learning as I am, welcome to contact me. 👋
 
 <!--
 **Researcher-Feng/Researcher-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
